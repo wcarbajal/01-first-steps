@@ -9,9 +9,8 @@ export const metadata: Metadata = {
 
 export default function PricingPage() {
     return (
-      <div className="min-h-screen">
        <span className="text-5xl">Pricing Page</span> 
-      </div>
+
     )
   }
   

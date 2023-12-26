@@ -9,9 +9,9 @@ export const metadata: Metadata = {
 
 export default function ContacPage() {
     return (
-      <div className="min-h-screen">
+      
        <span className="text-5xl">Contact Page</span> 
-      </div>
+      
     )
   }
   
